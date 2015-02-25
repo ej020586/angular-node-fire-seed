@@ -1,0 +1,9 @@
+logs/*
+!.gitkeep
+node_modules/*
+lib/*
+config/config.json
+npm-debug.log
+tmp
+.DS_Store
+.idea

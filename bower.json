@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "angular": "1.2.25",
+        "angular-bootstrap": "0.11.0",
+        "angular-resource": "1.2.25",
+        "angular-mocks": "1.2.25",
+        "angular-ui-router": "0.2.10",
+        "bootstrap": "3.1.1",
+        "jquery": "2.1.1",
+        "q": "1.0.1",
+        "requirejs":"2.1.11",
+        "underscore": "1.6.0"
+    },
+    "description": "Example start to a AngularJS, NodeJs, Firebase project",
+    "ignore": [
+        "**/.*"
+    ],
+    "name": "Angular Node Fire Seed",
+    "private": true,
+    "version": "1.0"
+}
